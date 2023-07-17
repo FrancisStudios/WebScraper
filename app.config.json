@@ -7,6 +7,10 @@
         ],
         "identifiers": [
             "main-page"
-        ]
+        ],
+        "URIPrefixes": {
+            "doc":"PageSource/",
+            "img":"ImgSource/"
+        }
     }
 }
