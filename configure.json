@@ -2,6 +2,17 @@
     "config":{
         "URL": "https://hu.wikipedia.org/wiki/Kakaduf%C3%A9l%C3%A9k",
         "sitename": "example",
+        "login":{
+            "isLoginApplicable": false,
+            "username": "",
+            "usernameSelector": "",
+            "password": "",
+            "passwordSelector": "",
+            "submitSelector": "",
+            "actionLinks": [
+                
+            ]
+        },
         "pages": [
             "__main",
             "#t-whatlinkshere > a > span"
