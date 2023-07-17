@@ -1,0 +1,12 @@
+{
+    "appConfig":{
+        "name": "WebScraper",
+        "testname": "faux test",
+        "tokens": [ 
+            "__main"
+        ],
+        "identifiers": [
+            "main-page"
+        ]
+    }
+}

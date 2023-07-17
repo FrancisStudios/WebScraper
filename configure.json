@@ -1,0 +1,12 @@
+{
+    "config":{
+        "URL": "https://hu.wikipedia.org/wiki/Kakaduf%C3%A9l%C3%A9k",
+        "sitename": "example",
+        "pages": [
+            "__main",
+            "#t-whatlinkshere > a > span"
+        ],
+        "usePages": true,
+        "universalWaitTime": 2000
+    }
+}
